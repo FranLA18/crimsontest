@@ -6,9 +6,9 @@
 [node name="Node2D" type="Node2D" unique_id=258012674]
 
 [node name="Sprite2D" type="Sprite2D" parent="." unique_id=2007820494]
-self_modulate = Color(1, 0.85882354, 0.09803922, 1)
-position = Vector2(778, 593.5)
-scale = Vector2(4.875, 2.8984375)
+self_modulate = Color(2.695322e-06, 0.9889651, 0.95640165, 1)
+position = Vector2(81.00003, 371.24997)
+scale = Vector2(0.984375, 5.230469)
 texture = ExtResource("1_v023a")
 
 [node name="705Fa7f1d54b5957d3d89d1a1b076Df1" type="Sprite2D" parent="." unique_id=1753351587]
