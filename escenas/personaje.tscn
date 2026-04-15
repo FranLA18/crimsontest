@@ -1,11 +1,16 @@
 [gd_scene format=3 uid="uid://d4ccsytfm8kei"]
 
 [ext_resource type="Texture2D" uid="uid://cx3qs5r1kxsf" path="res://icon.svg" id="1_v023a"]
+[ext_resource type="Texture2D" uid="uid://oxlq2ibprkho" path="res://sprites/705fa7f1d54b5957d3d89d1a1b076df1.jpg" id="2_5nfxw"]
 
 [node name="Node2D" type="Node2D" unique_id=258012674]
 
 [node name="Sprite2D" type="Sprite2D" parent="." unique_id=2007820494]
-self_modulate = Color(0.41960785, 0.09803922, 0.09019608, 1)
-position = Vector2(778, 472)
-scale = Vector2(4.875, 1)
+self_modulate = Color(1, 0.85882354, 0.09803922, 1)
+position = Vector2(778, 593.5)
+scale = Vector2(4.875, 2.8984375)
 texture = ExtResource("1_v023a")
+
+[node name="705Fa7f1d54b5957d3d89d1a1b076Df1" type="Sprite2D" parent="." unique_id=1753351587]
+position = Vector2(-394, 962)
+texture = ExtResource("2_5nfxw")
