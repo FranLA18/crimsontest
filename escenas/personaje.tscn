@@ -6,6 +6,6 @@
 
 [node name="Sprite2D" type="Sprite2D" parent="." unique_id=2007820494]
 self_modulate = Color(0.41960785, 0.09803922, 0.09019608, 1)
-position = Vector2(415, 151)
+position = Vector2(778, 472)
 scale = Vector2(4.875, 1)
 texture = ExtResource("1_v023a")
